@@ -4,5 +4,5 @@ description: Adds the excellent MiniPaint tool as an extension to omnitool. See 
 author: Georg Zoeller
 origin: https://github.com/georgzoeller/omni-extension-minipaint.git
 client:
-  addToWorkbench: true
+  addToWorkbench: false
 
